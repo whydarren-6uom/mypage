@@ -2,12 +2,15 @@ import './Footer.css'
 
 const Footer = () => (
   <footer className='footer'>
+    Created by Darren Wang. Inspired and based on the{' '}
     <a
-      href='https://github.com/rajshekhar26/cleanfolio'
+      href='https://github.com/rjshkhr/cleanfolio'
       className='link footer__link'
     >
-      Created By Raj Shekhar
-    </a>
+      {' '}
+      Cleanfolio Project{' '}
+    </a>{' '}
+    by Raj Shekhar
   </footer>
 )
 
