@@ -10,7 +10,8 @@ const about = {
   role: 'Senior Student @ UC Berkeley',
   description:
     'Coder, Traveler, Activist. Work bridges technology and culture. With 14 countries explored, Antarctica is next. A relentless pursuit of discovery drives him forward.',
-  resume: '../media/Darren_Wang_resume.pdf',
+  resume:
+    'https://github.com/whydarren-6uom/mypage/blob/main/media/Darren_Wang_resume.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/whydarren6uom',
     github: 'https://github.com/whydarren-6uom',
@@ -41,7 +42,8 @@ const projects = [
     description:
       'By teenagers, for teenagers. Expressed our thoughts on social issues, drew attention to our life and well-being. Bridging understanding between people.',
     stack: ['Directing', 'Video Editing', 'Social Issues'],
-    sourceCode: '../media/Magazine_Publish.pdf',
+    sourceCode:
+      'https://github.com/whydarren-6uom/mypage/blob/main/media/Magazine_Publish.pdf',
     livePreview: 'https://youtu.be/3EeRkTZTci4?si=DXLuHAggHoK5AUqb',
   },
 ]
