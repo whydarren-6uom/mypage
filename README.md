@@ -19,6 +19,7 @@ fnm use
 ```
 
 To install and launch the project, run these commands:
+To install and launch the project, run these commands:
 
 ```shell
 yarn
